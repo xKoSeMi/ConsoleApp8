@@ -8,6 +8,6 @@ namespace ConsoleApp8
 {
     class KlasaN
     {
-        string test = "sw";
+        string test = "poprawione";
     }
 }
