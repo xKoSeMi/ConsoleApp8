@@ -15,7 +15,7 @@ namespace ConsoleApp8
             Console.WriteLine("xD");
             for (int i = 0; i < 100; i++)
             {
-                i++;
+                ConsoleWrite("Zmiana");
             }
         }
     }
