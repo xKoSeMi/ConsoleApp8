@@ -10,6 +10,8 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
+            int x = 100;
+            Console.WriteLine("Test");
         }
     }
 }
