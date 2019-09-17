@@ -12,16 +12,7 @@ namespace ConsoleApp8
         {
             int x = 100;
             Console.WriteLine("Test");
-            Console.WriteLine("New");
-            Console.WriteLine("xD");
-            Console.WriteLine("xD");
-            Console.WriteLine("Nowu");
-            Console.WriteLine("");
-            Console.WriteLine("Galz");
-            Console.WriteLine("Elo");
-            Console.WriteLine("Nowa galaz");
-            Console.WriteLine("Test");
-            Console.WriteLine("Test2");
+
         }
     }
 }
