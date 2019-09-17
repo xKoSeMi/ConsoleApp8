@@ -20,6 +20,8 @@ namespace ConsoleApp8
             Console.WriteLine("Galz");
             Console.WriteLine("Elo");
             Console.WriteLine("Nowa galaz");
+            Console.WriteLine("Test");
+            Console.WriteLine("Test2");
         }
     }
 }
