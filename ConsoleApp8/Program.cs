@@ -13,6 +13,10 @@ namespace ConsoleApp8
             int x = 100;
             Console.WriteLine("Test");
             Console.WriteLine("xD");
+            for (int i = 0; i < 100; i++)
+            {
+                i++;
+            }
         }
     }
 }
