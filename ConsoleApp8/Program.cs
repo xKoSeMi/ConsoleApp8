@@ -16,7 +16,8 @@ namespace ConsoleApp8
             Console.WriteLine("xD");
             Console.WriteLine("xD");
             Console.WriteLine("Nowu");
-
+            Console.WriteLine("");
+            Console.WriteLine("Galz");
         }
     }
 }
